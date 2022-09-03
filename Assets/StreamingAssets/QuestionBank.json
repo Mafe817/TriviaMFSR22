@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+        {
+            "enunciado": "¿En qué año llegó el hombre a la Luna?",
+            "respuestas": [
+                { "texto": "1969" },
+                { "texto": "1950" },
+                { "texto": "1972" },
+                { "texto": "1980" }
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "enunciado": "¿Qué país está entre Perú y Colombia?",
+            "respuestas": [
+                { "texto": "Venezuela" },
+                { "texto": "Paraguay" },
+                { "texto": "Ecuador" },
+                { "texto": "Salvador" }
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "enunciado": "¿Cuál es el país del mundo con mayor población?",
+            "respuestas": [
+                { "texto": "Estados Unidos" },
+                { "texto": "Rusia" },
+                { "texto": "Brazil" },
+                { "texto": "China" }
+            ],
+            "respuestaCorrecta": 3
+        },
+        {
+            "enunciado": "¿Cuál es la flor nacional de Japón? ",
+            "respuestas": [
+                { "texto": "Crisantemo" },
+                { "texto": "Flor de Cerezo" },
+                { "texto": "Flor Otonal" },
+                { "texto": "Lirio" }
+            ],
+            "respuestaCorrecta": 1
+        },
+      {
+        "enunciado": "¿Cuál es el animal nacional de Australia?",
+        "respuestas": [
+          { "texto": "Canguro" },
+          { "texto": "Koala" },
+          { "texto": "Wombat" },
+          { "texto": "Wallabie" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el país más pequeño del mundo?",
+        "respuestas": [
+          { "texto": "Monaco" },
+          { "texto": "Islas Marshall" },
+          { "texto": "El Vaticano" },
+          { "texto": "Nauru " }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál es el río más largo del mundo?",
+        "respuestas": [
+          { "texto": "Misisipi" },
+          { "texto": "Amazonas" },
+          { "texto": "Río Amarillo" },
+          { "texto": "El Nilo" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cuál fue el primer largometraje de Pixar?",
+        "respuestas": [
+          { "texto": "Bichos: Una aventura en miniatura" },
+          { "texto": "Toy Story " },
+          { "texto": "Monsters, Inc " },
+          { "texto": "Buscando a Nemo" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál es el oso más famoso del parque nacional de Yellowstone?",
+        "respuestas": [
+          { "texto": " Ranger Jones" },
+          { "texto": "Ranger Smith" },
+          { "texto": "El Oso Bubu" },
+          { "texto": "El Oso Yogui" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Qué pieza de ajedrez puede hacer un movimiento en forma de L?",
+        "respuestas": [
+          { "texto": "El Caballo" },
+          { "texto": "La torre" },
+          { "texto": "El Peon" },
+          { "texto": "El Alfil" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": " ¿Cómo se llama el actor que interpreta al Dr House?",
+        "respuestas": [
+          { "texto": "James Wilson" },
+          { "texto": "Hugh Laurie" },
+          { "texto": "Eric Foreman" },
+          { "texto": "Lawrence Kutner" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿En qué popular serie de TV podemos ubicar a un personaje llamado Walter White?",
+        "respuestas": [
+          { "texto": "Mind Hunter" },
+          { "texto": "House of cards" },
+          { "texto": "Ozark" },
+          { "texto": "Breaking Bad" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cómo se llaman los deportistas que practican el judo?",
+        "respuestas": [
+          { "texto": "Jugadores de judo" },
+          { "texto": "Juds" },
+          { "texto": "Judokas" },
+          { "texto": "Judos" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿A qué le tiene miedo una persona que sufre vértigo?",
+        "respuestas": [
+          { "texto": "A las alturas" },
+          { "texto": "Al oceano" },
+          { "texto": "A la sangre" },
+          { "texto": "A las serpientes" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": " ¿Cuál es el pájaro símbolo de la paz?",
+        "respuestas": [
+          { "texto": "El venado" },
+          { "texto": "La paloma" },
+          { "texto": "El caballo" },
+          { "texto": "El perro" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿En qué parte del cuerpo se encuentra la piel más gruesa?",
+        "respuestas": [
+          { "texto": "Manos" },
+          { "texto": "Piernas" },
+          { "texto": "Cabeza" },
+          { "texto": "Espalda" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿En qué mes el sol está más cerca de la Tierra?",
+        "respuestas": [
+          { "texto": "Diciembre" },
+          { "texto": "Julio" },
+          { "texto": "Agosto" },
+          { "texto": "Enero" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál era el lema de los Tres Mosqueteros?",
+        "respuestas": [
+          { "texto": "“Todos para uno y uno para todos” " },
+          { "texto": "Uno para todos y todos para uno" },
+          { "texto": "No tenian lema" },
+          { "texto": "Somos los tres mosqueteros" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cómo se conoce a la policía italiana?",
+        "respuestas": [
+          { "texto": "Guardas" },
+          { "texto": "Polizas" },
+          { "texto": "Carabinieri" },
+          { "texto": "Seguridad" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Quién dijo: “Hitler me ha copiado el bigote”?",
+        "respuestas": [
+          { "texto": "Franz Seldte" },
+          { "texto": "Charlie Chaplin" },
+          { "texto": "Heinrich Himmler" },
+          { "texto": "Werner von Blomberg" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué actor, que no era el feo ni el malo, era el bueno?",
+        "respuestas": [
+          { "texto": "Morgan Freeman" },
+          { "texto": "Indiana Jones" },
+          { "texto": "Clint Eastwood" },
+          { "texto": "Rambo" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Qué palabra significa “hijo de” en los apellidos escoceses?",
+        "respuestas": [
+          { "texto": "Mac" },
+          { "texto": "Bear" },
+          { "texto": "Son" },
+          { "texto": "Nar" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Quién escribió La Guerra de los Mundos en 1898?",
+        "respuestas": [
+          { "texto": "Victor Hugo." },
+          { "texto": "Charles Dickens" },
+          { "texto": "Agatha Chistie" },
+          { "texto": "H.G. Wells " }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Qué tiene en Segovia 128 arcos?",
+        "respuestas": [
+          { "texto": "El Acueducto" },
+          { "texto": "La Muralla de Segovia" },
+          { "texto": "El Gran Monumento de Segovia" },
+          { "texto": "El Arco" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Qué mide en París alrededor de 333 metros?",
+        "respuestas": [
+          { "texto": "El Museo del Louvre" },
+          { "texto": "La Torre Eiffel" },
+          { "texto": "El Arco del Triunfo" },
+          { "texto": " El Museo de Orsay" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  }
+]
